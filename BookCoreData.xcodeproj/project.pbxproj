@@ -11,6 +11,7 @@
 		953A248925C414FF0052DF80 /* DetaiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A248825C414FF0052DF80 /* DetaiView.swift */; };
 		953A24DE25C92A970052DF80 /* .gitignore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A24DD25C92A970052DF80 /* .gitignore.swift */; };
 		953A24E225C92BA60052DF80 /* logs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A24E125C92BA60052DF80 /* logs.swift */; };
+		953A24E525C938F80052DF80 /* readme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A24E425C938F80052DF80 /* readme.swift */; };
 		95CEA37925C3D8C2002C480C /* BookCoreDataApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CEA37825C3D8C2002C480C /* BookCoreDataApp.swift */; };
 		95CEA37D25C3D8C6002C480C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CEA37C25C3D8C6002C480C /* Assets.xcassets */; };
 		95CEA38025C3D8C6002C480C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CEA37F25C3D8C6002C480C /* Preview Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		953A248825C414FF0052DF80 /* DetaiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetaiView.swift; sourceTree = "<group>"; };
 		953A24DD25C92A970052DF80 /* .gitignore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore.swift; sourceTree = "<group>"; };
 		953A24E125C92BA60052DF80 /* logs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = logs.swift; sourceTree = "<group>"; };
+		953A24E425C938F80052DF80 /* readme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readme.swift; sourceTree = "<group>"; };
 		95CEA37525C3D8C2002C480C /* BookCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95CEA37825C3D8C2002C480C /* BookCoreDataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookCoreDataApp.swift; sourceTree = "<group>"; };
 		95CEA37C25C3D8C6002C480C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				953A24DD25C92A970052DF80 /* .gitignore.swift */,
+				953A24E425C938F80052DF80 /* readme.swift */,
 				953A24E025C92B940052DF80 /* Logs */,
 				95CEA37725C3D8C2002C480C /* BookCoreData */,
 				95CEA37625C3D8C2002C480C /* Products */,
@@ -179,6 +182,7 @@
 				953A248925C414FF0052DF80 /* DetaiView.swift in Sources */,
 				95CEA39525C3E5FD002C480C /* RatingView.swift in Sources */,
 				95CEA38525C3D8C6002C480C /* BookCoreData.xcdatamodeld in Sources */,
+				953A24E525C938F80052DF80 /* readme.swift in Sources */,
 				95CEA38E25C3DA0F002C480C /* AddBookView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
